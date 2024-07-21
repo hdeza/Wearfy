@@ -37,7 +37,7 @@ of the page on different devices, ensuring a consistent and pleasant user experi
    ```bash
    git clone https://github.com/hdeza/Wearfy.git
 
-##Contributions
+## Contributions
 Contributions are welcome. If you want to improve this project, please open an issue or submit a pull request.
 
 
